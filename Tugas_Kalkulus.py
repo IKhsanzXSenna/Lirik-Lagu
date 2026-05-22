@@ -15,3 +15,11 @@ if abs(kiri - kanan) < 0.001:
     print("hasil limit =", (kiri + kanan) / 2)
 else:
     print("Limit tidak ada")
+
+print("Limit dari kiri :", kiri)
+print("Limit dari kanan:", kanan)
+
+if abs(kiri - kanan) < 0.001:
+    print("hasil limit =", (kiri + kanan) / 2)
+else:
+    print("Limit tidak ada")
